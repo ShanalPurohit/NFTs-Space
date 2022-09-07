@@ -1,0 +1,17 @@
+.header{
+display:flex;
+background-color: black;
+}
+
+.header>h1{
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.header>img{
+width: 125px;
+height: auto;
+}

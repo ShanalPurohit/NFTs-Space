@@ -1,0 +1,33 @@
+.footer_container{
+    background: #424242;
+    margin-top: 50px;
+    
+}
+.footer_container>img{
+    padding: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width:150px;
+    height:150px;
+    background:#424242;
+    border-radius: 25%;
+}
+
+.footer_container>h1{
+    background: #424242;
+    margin: 0%;
+    text-align: center;
+    padding-bottom: 2%;
+    color:white;
+}
+
+.footer_container>h6{
+    background: #424242;
+    margin: 0%;
+    text-align: center;
+    padding-bottom: 2%;
+    color:white;
+    cursor: pointer;
+}

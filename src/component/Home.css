@@ -1,0 +1,50 @@
+*{
+    background-color:#f7f7f7;
+}
+
+.container_1{
+    text-align: left;
+    margin-left: 20px;
+}
+.container_1>h1{
+font-weight: bolder;
+}
+
+.container_1>h5{
+font-weight: normal;
+}
+
+.subcontainer_2>button{
+margin: 2px;
+float: left;
+margin-left: 10px;
+padding: 5px;
+border-color:black;
+border-width: thin;
+border-radius: 35px;
+text-align: center;
+}
+
+.subcontainer_3{
+    margin: 2px;
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+    border-color:black;
+    border-width: thin;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.subcontainer_2>button:active{
+background-color: black;
+color: white;
+}
+
+.container_3{
+    margin-top: 150px;
+}
+
+
+
+

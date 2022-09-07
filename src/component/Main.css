@@ -1,0 +1,9 @@
+.Tcontainer,.Bcontainer,.Vcontainer,.Pcontainer,.Scontainer,.Gcontainer,.temple_container{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+    float: left;
+    flex-wrap: wrap;
+    width: 100%;
+}
