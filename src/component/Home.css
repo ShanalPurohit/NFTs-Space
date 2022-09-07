@@ -23,6 +23,7 @@ border-color:black;
 border-width: thin;
 border-radius: 35px;
 text-align: center;
+cursor: pointer;
 }
 
 .subcontainer_3{
